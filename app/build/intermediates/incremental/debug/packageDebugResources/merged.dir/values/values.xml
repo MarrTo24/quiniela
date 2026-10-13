@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiniela</string>
+    <string name="gcm_defaultSenderId" translatable="false">971781554514</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGRu_WYfs6KE2n-nx3R4ZkYvIC0K8tvqY</string>
+    <string name="google_app_id" translatable="false">1:971781554514:android:1ef4a80e37d232d8773a8b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGRu_WYfs6KE2n-nx3R4ZkYvIC0K8tvqY</string>
+    <string name="google_storage_bucket" translatable="false">quiniela2026-66b76.firebasestorage.app</string>
+    <string name="project_id" translatable="false">quiniela2026-66b76</string>
+    <style name="Theme.Quiniela" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

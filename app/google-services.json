@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971781554514",
+    "project_id": "quiniela2026-66b76",
+    "storage_bucket": "quiniela2026-66b76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971781554514:android:1ef4a80e37d232d8773a8b",
+        "android_client_info": {
+          "package_name": "com.quiniela.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRu_WYfs6KE2n-nx3R4ZkYvIC0K8tvqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
